@@ -36,8 +36,8 @@ A collaborative task management application designed to empower communities and 
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/harambee-task-force.git
-    cd harambee-task-force
+    git clone https://github.com/ericksaddam/harambee-hub.git
+    cd harambee-hub
     ```
 
 2.  **Install backend dependencies:**
